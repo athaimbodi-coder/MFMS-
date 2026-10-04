@@ -154,5 +154,5 @@ void employeeMenu(Employee employees[], int *count)
                 printf("Invalid choice.\n");
         }
 
-    } while (choice != 4);
+        } while (choice != 4);
 }
